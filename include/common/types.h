@@ -1,5 +1,5 @@
-#ifndef __ITYPES_H__
-#define __ITYPES_H__
+#ifndef __TYPES_H__
+#define __TYPES_H__
 
 #include "config.h"
 
@@ -25,4 +25,4 @@
 #endif
 
 
-#endif // __ITYPES_H__
+#endif // __TYPES_H__
